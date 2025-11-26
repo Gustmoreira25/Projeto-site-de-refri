@@ -30,6 +30,9 @@ Este projeto é uma página moderna e animada que apresenta diferentes refrigera
 ├── style.css # Estilos do site
 └── script.js # Animações e lógica
 
+---
 
-DEMONSTRAÇÃO 
+
+DEMONSTRAÇÃO  
+
 <img width="1898" height="915" alt="image" src="https://github.com/user-attachments/assets/19abd6d4-8c1d-40a4-a69f-ee0d747fe052" />
